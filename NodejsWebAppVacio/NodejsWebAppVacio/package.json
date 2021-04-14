@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-web-app-vacio",
+  "version": "0.0.0",
+  "description": "NodejsWebAppVacio",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

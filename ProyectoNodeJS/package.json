@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-node-js",
+  "version": "1.0.0",
+  "description": "ProyectoNodeJS",
+  "main": "dempleados.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}

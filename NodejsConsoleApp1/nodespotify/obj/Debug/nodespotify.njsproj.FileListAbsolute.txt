@@ -1,0 +1,3 @@
+D:\Proyectos VS\NodejsConsoleApp1\nodespotify\obj\Debug\nodespotify.njsproj.CoreCompileInputs.cache
+D:\Proyectos VS\NodejsConsoleApp1\nodespotify\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Proyectos VS\NodejsConsoleApp1\nodespotify\obj\Debug\nodespotify.njsprojAssemblyReference.cache

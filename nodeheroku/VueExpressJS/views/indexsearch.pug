@@ -1,0 +1,53 @@
+extends layout
+
+block content 
+ .container-fluid
+  .row
+    .col-md-12
+      nav.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top
+        button.navbar-toggler(type='button' data-toggle='collapse' data-target='#bs-example-navbar-collapse-1')
+          span.navbar-toggler-icon
+        a.navbar-brand(href='#') Brand
+        #bs-example-navbar-collapse-1.collapse.navbar-collapse
+          ul.navbar-nav
+            li.nav-item.dropdown
+              a#navbarDropdownMenuLink.nav-link.dropdown-toggle(href='http://example.com' data-toggle='dropdown') Dropdown link
+              .dropdown-menu(aria-labelledby='navbarDropdownMenuLink')
+                a.dropdown-item(href='#') Action
+                a.dropdown-item(href='#') Another action
+                a.dropdown-item(href='#') Something else here
+                .dropdown-divider
+                a.dropdown-item(href='#') Separated link
+          
+          form.form-inline
+            input.form-control.mr-sm-2(type='text')
+            button.btn.btn-primary.my-2.my-sm-0(type='submit')
+              | Search
+          ul.navbar-nav.ml-md-auto
+            li.nav-item.active
+              a.nav-link(href='#')
+                | Link 
+                span.sr-only (current)
+            li.nav-item.dropdown
+              a#navbarDropdownMenuLink.nav-link.dropdown-toggle(href='http://example.com' data-toggle='dropdown') Dropdown link
+              .dropdown-menu.dropdown-menu-right(aria-labelledby='navbarDropdownMenuLink')
+                a.dropdown-item(href='#') Action
+                a.dropdown-item(href='#') Another action
+                a.dropdown-item(href='#') Something else here
+                .dropdown-divider
+                a.dropdown-item(href='#') Separated link
+    .row
+     -var p=producto;
+     -var id=p.getIdProducto();
+     -var imagen=p.getImgProducto();
+         .col-md-4
+          .card
+            img.card-img-top(alt='Bootstrap Thumbnail First' src=imagen)
+            .card-block
+              h5.card-title
+                | #{id}
+              p.card-text
+                | Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+              p
+                a.btn.btn-primary(href='#') Action
+                a.btn(href='#') Action

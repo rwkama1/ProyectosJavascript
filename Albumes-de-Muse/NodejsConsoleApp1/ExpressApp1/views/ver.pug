@@ -1,0 +1,15 @@
+﻿doctype html
+html
+include head.pug
+body
+ .container
+   -var imagen=buscaralbum.im;
+   -var nombre=buscaralbum.nameal;
+   ul.list-unstyled
+    li.media
+     img.mr-3(src=imagen,width='300',height="300")
+     .media-body
+       h5.mt-0.mb-1 #{nombre}
+       ul.list-group.list-group-flush
+        for song in listcanciones
+         li.list-group-item #{song.namesong}

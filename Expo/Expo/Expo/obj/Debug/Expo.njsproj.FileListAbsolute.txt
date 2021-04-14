@@ -1,0 +1,3 @@
+C:\Users\Waldemar\Desktop\Node Javascript\Expo\Expo\Expo\obj\Debug\Expo.njsprojAssemblyReference.cache
+C:\Users\Waldemar\Desktop\Node Javascript\Expo\Expo\Expo\obj\Debug\Expo.njsproj.CoreCompileInputs.cache
+C:\Users\Waldemar\Desktop\Node Javascript\Expo\Expo\Expo\bin\Microsoft.NodejsTools.WebRole.dll

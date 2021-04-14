@@ -1,0 +1,16 @@
+{
+  "name": "request-nodejs-consola",
+  "version": "0.0.0",
+  "description": "RequestNodejsConsola",
+  "main": "requestproduct.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "start": "node requestproduct"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "form-data": "^3.0.0"
+  }
+}

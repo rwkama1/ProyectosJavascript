@@ -1,0 +1,15 @@
+{
+  "name": "data-supermarket",
+  "version": "0.0.0",
+  "description": "DataSupermarket",
+  "main": "DataSale.js",
+  "scripts": {
+    "start": "node DataSale"
+  },
+  "author": {
+    "name": "Carlos Rodriguez"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}

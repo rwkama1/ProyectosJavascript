@@ -1,0 +1,17 @@
+﻿doctype html
+html
+include head.pug
+body
+ .container
+  h2 Albumes de Muse
+  for al in datalbum
+   .card(style='width:400px')   
+    img.card-img-top(id="mimg",alt='imag',src=al.im)
+    .card-body
+     h4.card-title #{al.nameal}
+     a.btn.btn-primary(href='#') Ver Canciones
+      
+    
+   
+
+

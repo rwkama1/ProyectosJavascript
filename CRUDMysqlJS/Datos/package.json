@@ -1,0 +1,16 @@
+{
+  "name": "datos",
+  "version": "0.0.0",
+  "description": "Datos",
+  "main": "dempleado.js",
+  "scripts": {
+    "start": "node dempleado"
+  },
+  "author": {
+    "name": "Carlos Andres"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}

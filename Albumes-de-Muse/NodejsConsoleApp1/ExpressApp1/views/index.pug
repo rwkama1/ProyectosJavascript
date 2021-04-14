@@ -1,0 +1,24 @@
+﻿doctype html
+html
+include head.pug
+body
+ .container
+  .row.row-cols-2
+   for al in datalbum
+    -var imagen=al.im;
+    -var nombre=al.nameal;
+    -var url=al.idal;
+     ul.list-unstyled
+      li.media
+       img.mr-3(src=imagen,width='200',height="200")
+       .media-body
+        h5.mt-0.mb-1 #{nombre}
+        a.btn.btn-primary(href="/ver/"+url)
+         | Ver Canciones
+ 
+       
+
+    
+   
+
+

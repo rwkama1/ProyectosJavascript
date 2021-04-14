@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Datos", "Datos\Datos.njsproj", "{7C8FDEBE-368D-4F85-813D-3B457513DBDA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ProductoExpress", "ProductoExpress\ProductoExpress.njsproj", "{A0BF88B1-8CCE-4A4A-921A-B099D32BA67D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8FDEBE-368D-4F85-813D-3B457513DBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8FDEBE-368D-4F85-813D-3B457513DBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8FDEBE-368D-4F85-813D-3B457513DBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8FDEBE-368D-4F85-813D-3B457513DBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BF88B1-8CCE-4A4A-921A-B099D32BA67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BF88B1-8CCE-4A4A-921A-B099D32BA67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BF88B1-8CCE-4A4A-921A-B099D32BA67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BF88B1-8CCE-4A4A-921A-B099D32BA67D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25EC9CCF-A6CD-4C3C-95AA-26EBC0857D37}
+	EndGlobalSection
+EndGlobal

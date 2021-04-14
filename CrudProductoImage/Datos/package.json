@@ -1,0 +1,24 @@
+{
+  "name": "manageproductwithimage",
+  "version": "1.0.10",
+  "description": "Manage product with image",
+  "main": "dproducto.js",
+  "scripts": {
+    "start": "node dproducto"
+  },
+  "author": {
+    "name": "Carlos Rodriguez"
+  },
+  "keywords": [
+    "backend",
+    "js",
+    "javascript"  
+  ],
+  "repository": {
+    "url": "https://github.com/rwkama/crudproductMongoDB"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "util": "^0.12.3"
+  }
+}

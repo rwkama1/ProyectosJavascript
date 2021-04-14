@@ -1,0 +1,3 @@
+C:\Users\Waldemar\Desktop\CRUDMysqlJS\Datos\obj\Debug\Datos.njsprojAssemblyReference.cache
+C:\Users\Waldemar\Desktop\CRUDMysqlJS\Datos\obj\Debug\Datos.njsproj.CoreCompileInputs.cache
+C:\Users\Waldemar\Desktop\CRUDMysqlJS\Datos\bin\Microsoft.NodejsTools.WebRole.dll

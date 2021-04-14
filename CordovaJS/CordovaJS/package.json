@@ -1,0 +1,26 @@
+{
+    "name": "CordovaJS",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "musebackendrwkama": "^1.0.0"
+    },
+    "devDependencies": {
+        "cordova-android": "5.2.1",
+        "cordova-ios": "4.2.0",
+        "cordova-windows": "4.4.2",
+        "cordova-plugin-whitelist": "1.2.2",
+        "cordova-plugin-device": "~2.0.3"
+    },
+    "cordova": {
+        "platforms": [
+            "android",
+            "ios",
+            "windows"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-device": {}
+        }
+    }
+}

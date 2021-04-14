@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VuejsBasico", "VuejsBasico\VuejsBasico.njsproj", "{EE9829D9-3A33-4C3B-AD36-256FA9B72426}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9829D9-3A33-4C3B-AD36-256FA9B72426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9829D9-3A33-4C3B-AD36-256FA9B72426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9829D9-3A33-4C3B-AD36-256FA9B72426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9829D9-3A33-4C3B-AD36-256FA9B72426}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBFE2585-E1EA-4CBF-952F-4CBD02FAC71E}
+	EndGlobalSection
+EndGlobal

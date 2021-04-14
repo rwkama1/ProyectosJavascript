@@ -1,0 +1,4 @@
+https://morioh.com/p/945f03e97087
+https://stackabuse.com/handling-file-uploads-in-node-js-with-expres-and-multer/
+http://learninfinity.info/crud-operation-using-nodejs-expressjs-mysql-part-2/
+https://bezkoder.com/node-js-rest-api-express-mysql/

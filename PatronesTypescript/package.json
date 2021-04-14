@@ -1,0 +1,13 @@
+{
+  "name": "testingpatternss",
+  "version": "0.0.2",
+  "description": "TestingPatrones",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "start": "node app"
+
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nodespotify",
+  "version": "0.0.0",
+  "description": "nodespotify",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "node-spotify-api": "^1.1.1",
+    "spotify-web-api-node": "^4.0.0"
+  }
+}

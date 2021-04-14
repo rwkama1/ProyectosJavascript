@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VueJavascript", "VueJavascript\VueJavascript.njsproj", "{70F8F73C-3B3A-4A73-B7DE-0362E14E8C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F8F73C-3B3A-4A73-B7DE-0362E14E8C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F8F73C-3B3A-4A73-B7DE-0362E14E8C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F8F73C-3B3A-4A73-B7DE-0362E14E8C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F8F73C-3B3A-4A73-B7DE-0362E14E8C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E2E9C3-A2B7-4994-A0ED-4FA71C3E7ECA}
+	EndGlobalSection
+EndGlobal

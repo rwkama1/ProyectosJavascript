@@ -1,0 +1,15 @@
+{
+  "name": "crud-product-mongodb",
+  "version": "0.0.1",
+  "description": "TestingMongoDB",
+  "main": "dataproduct.js",
+  "scripts": {
+    "start": "node dataproduct"
+  },
+  "author": {
+    "name": "Carlos Rodriguez"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.2"
+  }
+}

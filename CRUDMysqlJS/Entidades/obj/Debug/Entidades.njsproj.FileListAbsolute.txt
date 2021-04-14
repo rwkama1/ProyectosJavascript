@@ -1,0 +1,2 @@
+C:\Users\Waldemar\Desktop\CRUDMysqlJS\Entidades\obj\Debug\Entidades.njsproj.CoreCompileInputs.cache
+C:\Users\Waldemar\Desktop\CRUDMysqlJS\Entidades\bin\Microsoft.NodejsTools.WebRole.dll

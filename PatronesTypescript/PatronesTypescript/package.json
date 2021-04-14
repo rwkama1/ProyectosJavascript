@@ -1,0 +1,22 @@
+{
+  "name": "patrones-typescript",
+  "version": "0.0.0",
+  "description": "PatronesTypescript",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "start": "node app",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.5.33",
+    "@types/node": "^8.0.14",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}

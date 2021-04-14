@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PatronesTypescript", "PatronesTypescript\PatronesTypescript.njsproj", "{2F480295-7293-4DA1-A01F-D5521A683359}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TestingPatrones", "TestingPatrones\TestingPatrones.njsproj", "{2514D1B0-30AB-4F94-8E32-F64D80BD69D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F480295-7293-4DA1-A01F-D5521A683359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F480295-7293-4DA1-A01F-D5521A683359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F480295-7293-4DA1-A01F-D5521A683359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F480295-7293-4DA1-A01F-D5521A683359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2514D1B0-30AB-4F94-8E32-F64D80BD69D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2514D1B0-30AB-4F94-8E32-F64D80BD69D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2514D1B0-30AB-4F94-8E32-F64D80BD69D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2514D1B0-30AB-4F94-8E32-F64D80BD69D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06728D8-E0AA-4E06-8292-0499246E7D2B}
+	EndGlobalSection
+EndGlobal

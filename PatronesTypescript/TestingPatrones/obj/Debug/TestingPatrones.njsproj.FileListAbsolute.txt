@@ -1,0 +1,2 @@
+D:\Proyecto2019\Node Javascript\PatronesTypescript\TestingPatrones\obj\Debug\TestingPatrones.njsproj.CoreCompileInputs.cache
+D:\Proyecto2019\Node Javascript\PatronesTypescript\TestingPatrones\bin\Microsoft.NodejsTools.WebRole.dll
